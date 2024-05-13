@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|c:\\users\\pc_er\\onedrive\\desktop\\abel\\assets\\wheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|solutionrelative:assets\\wheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|c:\\users\\pc_er\\onedrive\\desktop\\abel\\assets\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|solutionrelative:assets\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\assets\\scenes\\standard assets\\vehicles\\car\\scripts\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\standard assets\\vehicles\\car\\scripts\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\assets\\scenes\\standard assets\\vehicles\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A587E1-0D85-3904-17D3-A834A0C654BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\standard assets\\vehicles\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wheel.cs",
+              "DocumentMoniker": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\wheel.cs",
+              "RelativeDocumentMoniker": "Assets\\wheel.cs",
+              "ToolTip": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\wheel.cs",
+              "RelativeToolTip": "Assets\\wheel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:53:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAEwHcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:11:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\CameraSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraSwitch.cs",
+              "ToolTip": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\CameraSwitch.cs",
+              "RelativeToolTip": "Assets\\CameraSwitch.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:50:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarAudio.cs",
+              "DocumentMoniker": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAudio.cs",
+              "ToolTip": "C:\\Users\\pc_er\\OneDrive\\Desktop\\abel\\Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAudio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Standard Assets\\Vehicles\\Car\\Scripts\\CarAudio.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAlwK0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:02.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
